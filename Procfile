@@ -1,1 +1,1 @@
-worker: bash config.py
+worker: bash sython.py
